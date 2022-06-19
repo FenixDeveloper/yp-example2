@@ -1,0 +1,8 @@
+@import 'example/example.css';
+@import 'example/example-test.css';
+@import 'example/__example.css';
+@import 'example/__subitem/sub__style-test.css';
+
+.style_1 {
+    color: red;
+}
