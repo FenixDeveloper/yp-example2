@@ -3,6 +3,14 @@
 @import 'example/__example.css';
 @import 'example/__subitem/sub__style-test.css';
 
+@import './Glyphter.css';
+@import './Montserrat.css';
+
 .style_1 {
     color: red;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 100;
 }
